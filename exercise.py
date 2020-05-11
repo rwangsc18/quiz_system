@@ -7,6 +7,7 @@ task description:
 - after the user answers all the questions, calculate her score and write it to the `result.txt` file
     the result should be in such format: `Your final score is n/m.`
     where n and m are the number of correct answers and the maximum score respectively"""
+# The author is Rui Wang instead of Wenya Chen
 # The basic functionality of the codes are here
 # The next step is to add some exception handle (Done)
 
